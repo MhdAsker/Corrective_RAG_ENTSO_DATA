@@ -165,8 +165,7 @@ MIT
 
 ## Author
 
-MhdAsker  
-Built with Claude Haiku 4.5
+MhdAsker
 
 ---
 
