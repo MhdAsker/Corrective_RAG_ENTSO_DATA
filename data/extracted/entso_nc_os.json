@@ -1,0 +1,11 @@
+[
+  {
+    "slug": "entso_nc_os",
+    "page_number": 1,
+    "raw_text": "CHAPTER I\nGeneral Provisions\nArticle 1\nSubject matter and scope\n1. This is a test.\n2. This is another test.\n3.1. Detailed section.",
+    "detected_heading": "CHAPTER I",
+    "heading_level": 1,
+    "is_toc_page": false,
+    "word_count": 23
+  }
+]

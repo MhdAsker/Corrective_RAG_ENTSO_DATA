@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "entso_sogl",
+    "title": "System Operation Guideline (SOGL) - Regulation (EU) 2017/1485",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1485&from=EN",
+    "local_path": "data/raw/entso_sogl.pdf",
+    "downloaded_at": "2026-03-09T22:56:49",
+    "file_size_kb": 1018,
+    "pages": 120,
+    "status": "ok"
+  },
+  {
+    "slug": "entso_nc_er",
+    "title": "Emergency and Restoration (ER) - Regulation (EU) 2017/2196",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R2196&from=EN",
+    "local_path": "data/raw/entso_nc_er.pdf",
+    "downloaded_at": "2026-03-09T22:56:50",
+    "file_size_kb": 653,
+    "pages": 32,
+    "status": "ok"
+  },
+  {
+    "slug": "entso_rfg",
+    "title": "Requirements for Generators (RfG) - Regulation (EU) 2016/631",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0631&from=EN",
+    "local_path": "data/raw/entso_rfg.pdf",
+    "downloaded_at": "2026-03-09T22:56:50",
+    "file_size_kb": 1001,
+    "pages": 68,
+    "status": "ok"
+  }
+]

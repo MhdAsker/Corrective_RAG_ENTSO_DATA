@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "dummy_doc",
+    "chunk_id": "chunk_0",
+    "text": "The N-1 contingency criterion ensures that the grid remains stable even if a single component fails.",
+    "heading_path": "Article 14",
+    "page_start": 1
+  },
+  {
+    "slug": "dummy_doc",
+    "chunk_id": "chunk_1",
+    "text": "System states include Normal, Alert, Emergency, Blackout, and Restoration.",
+    "heading_path": "Article 15",
+    "page_start": 2
+  }
+]
